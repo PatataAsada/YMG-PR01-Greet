@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YMG-PR01-Greet</string>
+    <string name="activity_main_lblName">name</string>
+    <string name="activity_main_lblSurname">surname</string>
+    <string name="main_activity_polite_mode">politely</string>
+    <string name="activity_main_btnGreet">greet</string>
+    <string name="activity_main_btnReset">reset</string>
+    <string name="main_activity_greetings">greetings</string>
+    <string name="main_activity_i_salute_you">! I salute you</string>
+    <string name="main_activity_impolite_mode">impolitely</string>
+</resources>
